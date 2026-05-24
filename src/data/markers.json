@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Rexburg Idaho Temple", "description": "South Temple", "lat": 43.8110, "lng": -111.7797 },
+  { "id": 2, "name": "Teton River Idaho Temple", "description": "North Temple", "lat": 43.8597, "lng": -111.7814 },
+  { "id": 3, "name": "Porter Park", "description": "Local Park", "lat": 43.8230, "lng": -111.7906 },
+  { "id": 4, "name": "Park Street Park", "description": "Local Park", "lat": 43.8223, "lng": -111.7986 },
+  { "id": 5, "name": "Smith Park", "description": "Local Park", "lat": 43.8271, "lng": -111.7737 },
+  { "id": 6, "name": "Hidden Valley Park", "description": "Local Park", "lat": 43.8246, "lng": -111.7659 },
+  { "id": 7, "name": "Riverside Park", "description": "Local Park", "lat": 43.8320, "lng": -111.7831 },
+  { "id": 8, "name": "Rotary Park", "description": "Local Park", "lat": 43.8307, "lng": -111.7676 },
+  { "id": 9, "name": "Science & Technology Center (STC)", "description": "BYUI Campus Building", "lat": 43.8146, "lng": -111.7847 },
+  { "id": 10, "name": "Hyrum Manwaring Student Center (MC)", "description": "BYUI Campus Building", "lat": 43.8184, "lng": -111.7826 },
+  { "id": 11, "name": "BYU–Idaho Sports Complex", "description": "BYUI Campus Facility", "lat": 43.8102, "lng": -111.7849 },
+  { "id": 12, "name": "Thomas E. Ricks Gardens", "description": "BYUI Campus Facility", "lat": 43.8154, "lng": -111.7816 },
+  { "id": 13, "name": "Downtown", "description": "Center of Downtown Rexburg", "lat": 43.8260, "lng": -111.7838 },
+  { "id": 14, "name": "Nature Park", "description": "Local Park", "lat": 43.8343, "lng": -111.8013 },
+  { "id": 15, "name": "Broulim's Fresh Foods", "description": "Supermarket", "lat": 43.8273, "lng": -111.7874 },
+  { "id": 16, "name": "Albertsons", "description": "Supermarket", "lat": 43.8364, "lng": -111.7755 },
+  { "id": 17, "name": "McDonald's", "description": "Fast Food", "lat": 43.8040, "lng": -111.8081 },
+  { "id": 18, "name": "McDonald's", "description": "Fast Food", "lat": 43.8337, "lng": -111.7785 },
+  { "id": 19, "name": "Idaho Falls", "description": "Neighboring City", "lat": 43.4908, "lng": -112.0391 },
+  { "id": 20, "name": "Brigham Young University", "description": "Sister School", "lat": 40.2519, "lng": -111.6493 }
+]
